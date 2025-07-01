@@ -111,5 +111,4 @@ _Figure 5: Scatterplot of actual vs. predicted trips with best-fit and y=x refer
 ---
 
 **Conclusion:**  
-By iterating from a simple linear baseline to automated model selection and careful hyperparameter tuning, I reduced MAE by over 30% and produced a reliable hourly demand forecast that can directly support Blue Bikes operations.
-```
+By iterating from a simple linear baseline to automated model selection and careful hyperparameter tuning, I reduced MAE and produced a reliable hourly demand forecast that can directly support Blue Bikes operations.
