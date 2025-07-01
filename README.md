@@ -15,7 +15,7 @@ The objective of this project was to forecast the number of trips taken on Blue 
 ## Data Preparation
 
 1. **Raw Data Ingestion**  
-   - Loaded a CSV containing every individual trip record (start time, end time, rideable type, stations).  
+   - Loaded a CSV containing every individual trip record (start time, end time, rideable type, stations). This repo does not provide you with the data necessary to train your own model. Please visit [this link](https://s3.amazonaws.com/hubway-data/index.html) to find more Blue Bikes data.
 2. **Feature Engineering**  
    - Extracted calendar features:  
      - **Date**  
